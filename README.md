@@ -6,7 +6,7 @@ Bagian ini mencakup ancaman pada alur Penerima Eksternal tanpa login, pembuatan 
 
 ### Ringkasan Ancaman
 
-| No | Ancaman | Kategori STRIDE | Elemen DFD | K x D | Skor | Level |
+| No | Ancaman | Kategori STRIDE | Elemen DFD | KxD | Skor | Level |
 |----|---------|-----------------|------------|-------|------|-------|
 | 1 | Penebakan token tautan oleh penerima tidak sah | Spoofing | Backend API | 2 x 3 | 6 | Tinggi |
 | 2 | Kebocoran tautan lewat saluran luar dan header Referer | Information Disclosure | Data flow *Halaman opsi unduh file* | 3 x 2 | 6 | Tinggi |
